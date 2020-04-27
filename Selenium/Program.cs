@@ -49,7 +49,7 @@ namespace Selenium
         public void CleanUp()
         {
             driver.Close();
-            Console.WriteLine("Closed the browser test");
+            Console.WriteLine("Closed the browser");
         }
 
 
