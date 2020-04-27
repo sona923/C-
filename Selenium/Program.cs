@@ -50,6 +50,7 @@ namespace Selenium
         {
             driver.Close();
             Console.WriteLine("Closed the browser");
+            Console.WriteLine("Closed the browser added");
         }
 
 
